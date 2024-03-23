@@ -1,6 +1,6 @@
 # RAG Inference Project
 
-This project uses the RAG (Retrieval-Augmented Generation) model for question answering.
+This project uses the RAG (Retrieval-Augmented Generation) model for Knowledge based question answering.
 
 ## Setup
 
