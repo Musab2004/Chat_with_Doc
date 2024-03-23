@@ -12,10 +12,3 @@ This project uses the RAG (Retrieval-Augmented Generation) model for question an
 
 Run the `rag-inference.py` script to start the application: `python rag-inference.py`
 
-## Contributing
-
-Please open an issue to discuss proposed changes before submitting a pull request.
-
-## License
-
-This project is licensed under the MIT License.
